@@ -1,1 +1,36 @@
+ResiliNet — One-Page Pitch Deck
 
+Slide 1 — Title / Hook
+Title: ResiliNet — Neighborhood coordination when it matters most
+Subtitle: Real-time local alerts, safe-location mapping & community help board
+Footer: Pilot-ready React Native app + admin dashboard
+Speaker notes: ResiliNet connects neighbors, NGOs, and local government to respond faster in climate and emergency events.
+
+Slide 2 — Problem
+Heading: The problem we solve
+- Communities lack a simple, localized coordination tool during extreme events
+- Centralized alerting doesn’t show local shelter status, volunteer capacity, or neighbor offers
+- Recipients and responders miss matches (food, shelter, transport)
+Speaker notes: Use local examples during pitch (flooding, heatwaves, wildfire evacuations). Offer the app as a local layer that fills the gaps.
+
+Slide 3 — Solution (ResiliNet)
+Heading: The solution — ResiliNet
+- Live local alerts (verified by orgs + public feeds)
+- Map of safe places and open services (shelters, clinics)
+- Help Board: post & accept offers/requests (food, shelter, transport)
+- Admin dashboard for municipalities & NGOs to verify and publish critical info
+Speaker notes: Emphasize speed of adoption: cross-platform mobile, low-cost Firebase backend, and pilot-ready admin.
+
+Slide 4 — Traction & Revenue Model
+Heading: Traction & monetization
+- Pilot region: [insert pilot city/region] — [X] installs, [Y] active users
+- Revenue: Organization subscriptions (Org+ dashboard), sponsorship/CSR, grants, municipal contracts
+- Go-to-market: Pilot partnerships with 1–3 municipalities, outreach via emergency management offices, community organizations
+Speaker notes: If no metrics yet, pitch the potential: typical municipality pilot fee $2k–10k onboarding + $49–199/month for SaaS seats.
+
+Slide 5 — Ask & Next Steps
+Heading: What we need / Offer to buyer
+- Seeking pilot partners and a buyer/partner to scale to 10+ municipalities
+- Deliverables: full source code, admin panel, onboarding docs, 30-day tech support
+- Next step: schedule a pilot in 1 region (2–3 month pilot) or request code handover
+Speaker notes: End by asking for a meeting: “If you manage emergency services, a 30-minute pilot walkthrough is the next step.”
